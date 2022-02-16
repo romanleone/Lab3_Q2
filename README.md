@@ -1,6 +1,6 @@
 # Lab3_Q2
 Decoder Code
-module Lab_3A (Din, EN, Dout);
+module Lab3_DECODER (Din, EN, Dout);
 parameter N = 32;
 input [4:0] Din;
 input EN;
